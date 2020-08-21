@@ -1,7 +1,7 @@
 # modified-api
-Ein Modul das eine API für die Modified Shopsoftware bereitstellt damit sich Fremdsoftware leicht an Modified anbinden kann.
+Ein Modul das eine API für die Modified Shopsoftware bereitstellt, damit sich Fremdsoftware leicht an Modified anbinden kann.
 
-Diese Modul befindet sich noch in der Enwickling. Zurzeit wird evaluiert, welche Anforderungen die API erfüllen muss.
+Diese Modul befindet sich noch in der Entwichlung. Zurzeit wird evaluiert, welche Anforderungen die API erfüllen muss.
 
 ## Benötigte Mindestanforderungen
 - Bestellungen (lesen)
@@ -33,4 +33,4 @@ Diese Modul befindet sich noch in der Enwickling. Zurzeit wird evaluiert, welche
 - Sage
 
 # Contributing
-Jeder der Lust hat sich zu beteiligen, kann das gerne machen. Zurzeit sind wir noch in der Evaluationsphase und brauchen hilfe dabei, was die API alles können soll und welche Technologien und Funktionen unterstützt werden sollen.
+Jeder der Lust hat sich zu beteiligen, kann das gerne machen. Zurzeit sind wir noch in der Evaluationsphase und brauchen Hilfe dabei, was die API alles können soll und welche Technologien und Funktionen unterstützt werden sollen.
