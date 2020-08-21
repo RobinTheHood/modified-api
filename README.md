@@ -31,3 +31,6 @@ Diese Modul befindet sich noch in der Enwickling. Zurzeit wird evaluiert, welche
 - Vario
 - Reybex
 - Sage
+
+# Contributing
+Jeder der Lust hat sich zu beteiligen, kann das gerne machen. Zurzeit sind wir noch in der Evaluationsphase und brauchen hilfe dabei, was die API alles können soll und welche Technologien und Funktionen unterstützt werden sollen.
